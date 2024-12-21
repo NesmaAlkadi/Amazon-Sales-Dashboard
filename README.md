@@ -24,9 +24,11 @@ The analysis focuses on:
    - Splited columns.
 
 2. **Data Modeling**:
+   *DAX*
    - Developed calculated measures for total brands, total products, total revenue, total reviews, average discount %, and average rating.
+   - Developed calculated new columns for rating_label, rating bin, and discount range.
 
-3. **Visualization**:
+4. **Visualization**:
    - Built an interactive dashboard with charts and slicers to explore sales performance.
 
 
